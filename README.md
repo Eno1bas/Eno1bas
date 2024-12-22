@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eno1bas&label=Profile%20views&color=0e75b6&style=flat" alt="eno1bas" /> </p>
 
-- 🔭 I’m currently working on **Simple bank account system**
+- 🔭 I’m currently working on **a Simple bank account system**
 
 - 🌱 I’m currently learning **Playwright**
 
