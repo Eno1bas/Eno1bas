@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **e.ibas@protonmail.com**
 
-- ⚡ Fun fact **I am from southern Nigeria**
+- ⚡ Fun fact **Started testing in long range threat detection product**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
